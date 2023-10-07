@@ -1,5 +1,4 @@
-# ECommerece_Data_Exploration
-In this project I took a large Brazilian E-Commerce Data set using Microsoft SQL Server
+
 # Brazilian E-Commerce Public Dataset Analysis
 
 This repository contains SQL queries for analyzing the Brazilian E-Commerce Public Dataset by Olist. The dataset offers a comprehensive view of e-commerce activities in Brazil, including orders, customers, products, sellers, and reviews. Below, we summarize the key analyses that can be performed using these queries:
